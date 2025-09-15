@@ -48,14 +48,14 @@ python main.py --count 10 --dark
 **Windows PowerShell:**
 
 ```powershell
-$env:SC200_JSON = "C:\\path\\to\\sc-200.json"
+$env:YOURDATA_JSON = "C:\\path\\to\\sc-200.json"
 python .\main.py --count 10
 ```
 
 **macOS/Linux (bash/zsh):**
 
 ```bash
-export SC200_JSON="/path/to/sc-200.json"
+export YOURDATA_JSON="/path/to/YOURDATA.json"
 python3 main.py --count 10
 ```
 
