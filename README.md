@@ -1,4 +1,4 @@
-# CertApp (SC‑200 Quiz)
+# StudyApp (build for SC‑200 but not limited to)
 
 A Tkinter-based quiz app study aid with over 300 links to Microsoft docs relating to **Microsoft SC‑200** (Security Operations Analyst). It supports multiple‑choice and drag‑and‑drop questions, shows images, remembers what you’ve mastered, and keeps score history.
 
