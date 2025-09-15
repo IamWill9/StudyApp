@@ -110,7 +110,7 @@ python3 main.py --count 10
 .
 ├─ main.py                 # CLI: runs GUI, validates JSON
 ├─ quiz_app.py             # Tkinter app & parsing helpers
-├─ sc-200.json             # test question bank
+├─ question_data.json             # test question bank
 ├─ Images/
 │  ├─ meow.jpg             # pass image (score ≥ 79%)
 │  └─ tryharder.jpg        # fail image
