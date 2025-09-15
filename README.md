@@ -1,6 +1,6 @@
 # CertApp (SC‑200 Quiz)
 
-A Tkinter-based quiz app to practice for **Microsoft SC‑200** (Security Operations Analyst). It supports multiple‑choice and drag‑and‑drop questions, shows images, remembers what you’ve mastered, and keeps score history.
+A Tkinter-based quiz app study aid with over 300 links to Microsoft docs relating to **Microsoft SC‑200** (Security Operations Analyst). It supports multiple‑choice and drag‑and‑drop questions, shows images, remembers what you’ve mastered, and keeps score history.
 
 > ✅ This repository ships with a **test JSON question bank** (e.g., `sc-200.json`). The app’s parser accepts letters (A/B/…), letter+punctuation (e.g., `"A:"`), or full option texts.
 
@@ -153,5 +153,5 @@ python main.py [--file PATH] [--count N] [--dark] [--validate]
 
 ## License / Use
 
-Educational use only. You are responsible for question text/image rights. Do not distribute copyrighted question banks.
+Educational use only. USE THE DUMPS TO TEST GAINED KNOWLEDGE!! DO NOT CHEAT YOURSELF!!!
 
