@@ -129,7 +129,7 @@ python3 main.py --count 10
 python main.py [--file PATH] [--count N] [--dark] [--validate]
 ```
 
-- `--file PATH`  : Path to your questions JSON. Omit to auto‑detect (or use env `SC200_JSON`).
+- `--file PATH`  : Path to your questions JSON. Omit to auto‑detect (or use env `question_data.JSON`).
 - `--count N`    : Number of questions (default 5).
 - `--dark`       : Enable dark mode.
 - `--validate`   : Validate JSON and exit.
@@ -153,5 +153,5 @@ python main.py [--file PATH] [--count N] [--dark] [--validate]
 
 ## License / Use
 
-Educational use only. USE THE DUMPS TO TEST THE GAINED KNOWLEDGE, THE TRIALS BEFORE YOU ARE BUT MIRRORS OF YOUR LEARNING, FACE THEM, LEST YOU BETRAY YOUR OWN POTENTIAL.
+Educational use only. USE THE DUMPS TO TEST YOUR KNOWLEDGE, THE TRIALS BEFORE YOU ARE BUT MIRRORS OF YOUR LEARNING, FACE THEM, LEST YOU BETRAY YOUR OWN POTENTIAL.
 
